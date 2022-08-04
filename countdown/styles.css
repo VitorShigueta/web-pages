@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: #ffeaad;
+}
+
+button {
+    height: 46px;
+    width: 160px;
+    left: 290px;
+    top: 457px;
+    border-radius: 10px;
+    background-color: #1c2130;
+    color: white;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.relogio {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.countDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 3rem;
+}
+
+.numberTam {
+    font-size: 5rem;
+}
+
+.virgula {
+    font-size: 5rem;
+}
+
+.legenda {
+    margin-bottom: 3rem;
+}
+
